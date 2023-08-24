@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @groovycatblaze
-- 👀 I’m interested in Computer Science and Business Systems. 
+- 👀 I’m interested in Computer Science, AI, ML, DL, Business Intelligence, Business Systems, Risk Analysis, to name a few.
 - 🌱 I’m currently learning to dive into the professional and practical side of Computer Science and it's numerous applications.
 - 💞️ I’m looking to collaborate on beginner level coding projects, and hoping to gain insights into the Tech world and join communities. 
 - 📫 How to reach me: You can email me at groovycatblaze@gmail.com to reach out!
